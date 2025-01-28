@@ -56,6 +56,7 @@ body {
     width: 450px;
     height: 800px;
 }
+
 .inside_card {
     position: absolute;
     overflow: hidden;
@@ -70,8 +71,8 @@ body {
     z-index:-1;
     left:0;
     top:0;
-
 }
+
 .valentines_card audio {
     display: none;
 }
@@ -79,6 +80,7 @@ body {
 .valentines_card:hover .front_img {
     display: none;
 }
+
 .inside_card audio {
     display: flex;
     margin-left: 50px;
